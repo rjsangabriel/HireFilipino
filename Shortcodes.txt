@@ -1,0 +1,16 @@
+x = group number
+//-------------------------------------
+
+Registration
+
+[PM_Registration ID="x"]
+
+//----------------------------------------
+Group Page
+[PM_Group ID="x"]
+
+All users
+[PM_Search]
+
+//----------------------------------------
+
